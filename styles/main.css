@@ -3,11 +3,12 @@ body {
 }
 
 h1 {
+    padding: 10px;
     font-size: 100px;
     font-weight: Bold;
     color: khaki;
     text-align: center;
-    background-image: url(/images/pattern.webp);
+    background-image: url("../images/pattern.webp");
 }
 
 h2 {
